@@ -1,5 +1,5 @@
 {
   "pipeline":"spacy_sklearn",
-
+  "INTENT_RANKING_LENGTH":10,
   "data":"data.json"
 }
